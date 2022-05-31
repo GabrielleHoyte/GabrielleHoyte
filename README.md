@@ -14,13 +14,6 @@
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h1 align="center">
-  Software Engineer @ResilientCoders
-</h1>
-
-<h2 align="center">
-  f;nsklfg'nR;EN
-</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/101993328/170546220-46666773-28bd-4134-a035-d5e7a4ec1b12.png" width="600"/>
